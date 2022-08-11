@@ -1,0 +1,180 @@
+body{
+    margin: 0;
+}
+.header{
+    width: 100%;
+    height: 130px;
+    
+    float: left;
+}
+.logo{
+    width: 20%;
+    height: 100%;
+    
+    float: left;
+    display: flex;
+    justify-content: center;
+}
+.section1{
+    width: 80%;
+    height: 50%;
+    
+    float: left;
+}
+.section2{
+    width: 80%;
+    height: 50%;
+    
+    float: left;
+    display: flex;
+    align-items: center;
+}
+.top{
+    display: inline;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.l1{
+    margin-left: 20px;
+    text-decoration: none;
+    color: #292929;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.lc{
+    margin-left: 20px;
+    text-decoration: underline;
+    color: #006bae;j
+}
+.se{
+    margin-left: 230px;
+}
+.sicon{
+    width: 16px;
+    height: 13px;
+}
+.licon{
+    width: 16px;
+    height: 13px;
+}
+.l2{
+    margin-left: 20px;
+    text-decoration: none;
+    font-size: 18px;
+    color: #292929;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.content{
+    width: 100%;
+    height: 3250px;
+    
+    float: left;
+}
+.c{
+    width: 100%;
+    height: 424px;
+    
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+.c1{
+    width: 1186px;
+    height: 424px;
+}
+.c1left{
+    width: 778px;
+    height: 100%;
+    
+    display: flex;
+    justify-content: center;
+    float: left;
+}
+.img{
+    width: 748px;
+    height: 333px;
+}
+.c1right{
+    width: 408px;
+    height: 100%;
+    
+    float: left;
+}
+.txl{
+    margin-left: 10px;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 40px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.txm{
+    margin-left: 10px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.txs{
+    margin-left: 10px;
+    font-size: 10px;
+    line-height: 1.45;
+    color: #292929;
+    background-color: transparent;
+    display: inline-block;
+    padding: 0;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.button{
+    width: 178px;
+    height: 48px;
+    background-color: #ffbc0d;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    margin-top: 10px;
+}
+
+.footer{
+    width: 100%;
+    height: 500px;
+    
+    float: left;
+}
+.fr1{
+    width: 100%;
+    height: 80%;
+   
+}
+.part1{
+    width: 20%;
+    height: 100%;
+    
+    float: left;
+    padding-left: 5%;
+}
+.part2{
+    width: 20%;
+    height: 100%;
+   
+    float: left;
+    padding-left: 5%;
+}
+.part3{
+    width: 20%;
+    height: 100%;
+   
+    float: left;
+    padding-left: 5%;
+}
+.part4{
+    width: 20%;
+    height: 100%;
+
+    float: left;
+    padding-left: 5%;
+}
+a{
+    text-decoration: none;
+    color: black;
+    line-height: 22px;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
+.title{
+    font-weight: 700;
+    font-family: Speedee,-apple-system,BlinkMacSystemFont,Segoe UI,Roboto,Helvetica Neue,Arial,Noto Sans,sans-serif;
+}
